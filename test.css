@@ -1,3 +1,7 @@
+:root{
+    background-color: blanchedalmond;
+}
+
 .title{
     color: black;
     font-size: 40px;
@@ -11,4 +15,13 @@
 .content{
     color: darkcyan;
     font-size: 30px;
+}
+
+a:link{
+    color: blanchedalmond;
+}
+
+/* 鼠标悬浮超链接颜色 */
+a:hover{
+    color: skyblue;
 }
